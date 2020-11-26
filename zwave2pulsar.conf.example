@@ -1,0 +1,8 @@
+[pulsar]
+AuthToken=
+PulsarHost=pulsar://localhost:6650
+PowerTopic=persistent://default/public/gw-zw095-power
+EnergyTopic=persistent://default/public/gw-zw095-energy
+GatewayStateTopic=persistent://default/public/gw-zw095-gwstate
+AgentTopic=persistent://default/public/gw-zw095-agent
+ScriptRunUpdateIntervalSeconds=120
