@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 python-openzwave = "*"
-pulsar-client = "*"
-
+#asyncio-nats-client= "*"
+nats-python = "*"
 [dev-packages]
 
 [requires]
